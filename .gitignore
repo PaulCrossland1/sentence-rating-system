@@ -63,3 +63,6 @@ output.csv
 *.key
 *.pem
 secrets/
+
+# Configuration files
+.gitignore

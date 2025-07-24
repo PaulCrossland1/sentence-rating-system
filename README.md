@@ -12,7 +12,7 @@ A Python application that uses Google's Gemini AI to rate sentences based on thr
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/PaulCrossland1/sentence-rating-system.git
    cd sentence-rating-system
    ```
 
